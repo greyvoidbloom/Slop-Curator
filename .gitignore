@@ -1,2 +1,6 @@
 env/
 venv/
+rawjson/
+cleaned_stories/
+config.json
+__pycache__
