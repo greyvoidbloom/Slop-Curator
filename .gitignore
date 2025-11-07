@@ -2,5 +2,9 @@ env/
 venv/
 rawjson/
 cleaned_stories/
+generated_audio/
+generated_videos/
+background_videos/
+sloplog.log
 config.json
 __pycache__
